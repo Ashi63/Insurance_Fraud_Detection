@@ -2,7 +2,7 @@ import json
 import sys
 import os
 import shutil
-sys.path.append("..")
+sys.path.append("...")
 from application_logging.logger import App_Logger
 
 
@@ -48,9 +48,9 @@ def createDirectoryForGoodBadRawData():
         raise OSError
 
 
-valuesfromSchema()
+#valuesfromSchema()
 
-
+createDirectoryForGoodBadRawData()
 
 
 

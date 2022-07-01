@@ -13,4 +13,3 @@ class App_Logger:
         file_object.write(str(date) + "/" + str(current_time) + "\t\t" + log_message + "\n")
 
 
-        
