@@ -1,0 +1,6 @@
+2022-07-01/15-57-58		Length Of Date Stamp In File:: 9		Length Of Time Stamp In File:: 6		NumberofColumns:: 39
+
+2022-07-01/16-04-14		Length Of Date Stamp In File:: 9		Length Of Time Stamp In File:: 6		NumberofColumns:: 39
+
+2022-07-01/16-05-04		Length Of Date Stamp In File:: 9		Length Of Time Stamp In File:: 6		NumberofColumns:: 39
+

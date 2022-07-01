@@ -2,15 +2,18 @@ import json
 import sys
 import os
 import shutil
-sys.path.append("...")
-from application_logging.logger import App_Logger
+sys.path.append("..")
 
+from application_logging.logger import App_Logger
 
 logger = App_Logger()
 
+
+
+
 def valuesfromSchema():
     
-    path = "D:\Insurance Fraud Detection\\"
+    path = "D:\Fraud Detection\\"
     with open(path + "schema_training.json","r") as f:
         dict = json.load(f)
 
@@ -20,7 +23,7 @@ def valuesfromSchema():
     NumberofColumns = dict['NumberofColumns']
     ColName = dict['ColName']
 
-    path_logs_dir = os.path.join("D:\Insurance Fraud Detection\\","Training_Logs")
+    path_logs_dir = os.path.join("D:\Fraud Detection\\","Training_Logs")
     path_log_file = os.path.join(path_logs_dir,"valuesfromSchemaValidationLog.txt")
 
     file = open(path_log_file,'a+')
@@ -34,23 +37,36 @@ def manualRegexCreation():
     return regex
 
 def createDirectoryForGoodBadRawData():
+
+    path_logs_dir = os.path.join("D:\Fraud Detection\\","Training_Logs")
+    path_log_file = os.path.join(path_logs_dir,"GeneralLogs.txt")
+
     try:
         path = os.path.join("Training_Raw_files_validated/","Good_Raw/")
         if not os.path.isdir(path):
             os.makedirs(path)
+            file = open (path_log_file,"a+")
+            logger.log(file, "Good Raw Data Folder Created")
+            file.close()
+        else:
+            file = open (path_log_file,"a+")
+            logger.log(file, "Good Raw Data Folder Already Exits")
+            file.close()
         path = os.path.join("Training_Raw_files_validated/","Bad_Raw")
         if not os.path.isdir(path):
             os.makedirs(path)
+            file = open (path_log_file,"a+")
+            logger.log(file,"Bad Raw Data Folder Created")
+            file.close()
+        else:
+            file = open (path_log_file,"a+")
+            logger.log(file, "Bad Raw Data Folder Already Exits")
+            file.close()
     except OSError as ex:
-        file = open ("Training_Logs/GeneralLogs.txt","a+")
+        file = open (path_log_file,"a+")
         logger.log(file,"Error in creating Directory")
         file.close()
         raise OSError
-
-
-#valuesfromSchema()
-
-createDirectoryForGoodBadRawData()
 
 
 

@@ -1,0 +1,4 @@
+2022-07-01/16-02-10		Good Raw Data Folder Created
+2022-07-01/16-02-10		Bad Raw Data Folder Created
+2022-07-01/16-05-04		Good Raw Data Folder Already Exits
+2022-07-01/16-05-04		Bad Raw Data Folder Already Exits
