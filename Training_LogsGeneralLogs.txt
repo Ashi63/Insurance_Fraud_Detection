@@ -1,0 +1,6 @@
+2022-07-01/16-26-44		Good Raw Folder Does Not Exists 
+2022-07-01/16-26-44		Bad Raw Folder Deleted
+2022-07-01/16-26-56		Good Raw Folder Does Not Exists 
+2022-07-01/16-26-56		Bad Raw Folder Does Not Exists 
+2022-07-01/16-29-52		Good_Raw Folder Deleted
+2022-07-01/16-29-52		Bad Raw Folder Deleted

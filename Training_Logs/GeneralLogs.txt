@@ -1,4 +1,29 @@
-2022-07-01/16-02-10		Good Raw Data Folder Created
-2022-07-01/16-02-10		Bad Raw Data Folder Created
-2022-07-01/16-05-04		Good Raw Data Folder Already Exits
-2022-07-01/16-05-04		Bad Raw Data Folder Already Exits
+2022-07-01/16-42-07		Good Raw Data Folder Created
+2022-07-01/16-42-07		Bad Raw Data Folder Already Exits
+2022-07-01/16-42-07		Good_Raw Folder Deleted
+2022-07-01/16-42-07		Bad Raw Folder Deleted
+2022-07-01/17-01-40		Good Raw Data Folder Created
+2022-07-01/17-01-40		Bad Raw Data Folder Created
+2022-07-01/17-04-26		Good Raw Data Folder Already Exits
+2022-07-01/17-04-26		Bad Raw Data Folder Already Exits
+2022-07-01/17-05-30		Good Raw Data Folder Already Exits
+2022-07-01/17-05-30		Bad Raw Data Folder Already Exits
+2022-07-01/17-06-25		Good Raw Data Folder Already Exits
+2022-07-01/17-06-25		Bad Raw Data Folder Already Exits
+2022-07-01/17-12-03		Good Raw Data Folder Already Exits
+2022-07-01/17-12-03		Bad Raw Data Folder Already Exits
+2022-07-01/17-12-16		Good Raw Data Folder Already Exits
+2022-07-01/17-12-16		Bad Raw Data Folder Already Exits
+2022-07-01/17-20-59		Good Raw Data Folder Already Exits
+2022-07-01/17-20-59		Bad Raw Data Folder Already Exits
+2022-07-01/17-21-16		Good Raw Data Folder Already Exits
+2022-07-01/17-21-16		Bad Raw Data Folder Already Exits
+2022-07-01/17-21-39		Good Raw Data Folder Already Exits
+2022-07-01/17-21-39		Bad Raw Data Folder Already Exits
+2022-07-01/17-24-04		Good Raw Data Folder Already Exits
+2022-07-01/17-24-04		Bad Raw Data Folder Created
+2022-07-01/17-54-31		Bad Files Moved to Archive Folder
+2022-07-01/17-54-31		Bad Raw Data Folder Deleted Successfully
+2022-07-01/18-11-03		Good_Raw Folder Deleted
+2022-07-02/11-28-16		Bad Raw Folder Deleted
+2022-07-02/11-28-16		Good_Raw Folder Deleted

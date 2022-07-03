@@ -1,0 +1,1 @@
+2022-07-01/17-53-32		Error while moving bad files to archive:: name 'files' is not defined

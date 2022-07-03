@@ -1,0 +1,9 @@
+2022-07-02/11-27-18		Column Length Validation Started!!
+2022-07-02/11-27-18		Error Occured while moving the file :: name 'NumberofColumns' is not defined
+2022-07-02/11-28-17		Error Occured while moving the file :: 'NoneType' object has no attribute 'NumberofColumns'
+2022-07-02/11-31-05		Error Occured while moving the file :: 'tuple' object has no attribute 'NumberofColumns'
+2022-07-02/11-31-41		Error Occured while moving the file :: [WinError 3] The system cannot find the path specified: 'D:/Fraud Detection/Training_Raw_Data_validation/Training_Raw_files_validated/Good_Raw/'
+2022-07-02/11-32-54		Column Length Validation Started!!
+2022-07-02/11-32-54		Column Length Validation Completed..!!
+2022-07-02/11-33-18		Column Length Validation Started!!
+2022-07-02/11-33-18		Column Length Validation Completed..!!
